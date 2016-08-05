@@ -1,0 +1,33 @@
+_repo: Introduction-to-the-Dramas-of-Balzac_8598
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Wilson, Epiphanius
+    birthdate: 1845
+    deathdate: 1916
+    gutenberg_agent_id: '4842'
+    url: http://www.gutenberg.org/2009/agents/4842
+  - agent_name: McSpadden, J. Walker (Joseph Walker)
+    aliases:
+    - Walker, Joseph
+    - McSpadden, Joseph Walker
+    birthdate: 1874
+    deathdate: 1960
+    gutenberg_agent_id: '437'
+    url: http://www.gutenberg.org/2009/agents/437
+description: ''
+gutenberg_issued: '2006-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8598'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Balzac, Honoré de, 1799-1850'
+- !lcsh 'French drama -- 19th century -- History and criticism'
+- !lcc 'PQ'
+- GITenberg
+title: Introduction to the Dramas of Balzac
+url: http://www.gutenberg.org/ebooks/8598
